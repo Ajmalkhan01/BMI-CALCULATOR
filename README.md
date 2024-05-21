@@ -1,4 +1,4 @@
-# BMI-Calculator
+# BMI-CALCULATOR
 
 A simple web-based BMI (Body Mass Index) calculator built with HTML, CSS, and JavaScript.
 
